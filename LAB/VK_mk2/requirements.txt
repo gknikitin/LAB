@@ -1,4 +1,0 @@
-aiogram
-requests
-loguru
-python-dotenv
