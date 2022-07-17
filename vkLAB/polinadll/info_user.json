@@ -1,0 +1,96 @@
+{
+    "response": [
+        {
+            "id": 126466582,
+            "nickname": "",
+            "maiden_name": "",
+            "domain": "polinadll",
+            "bdate": "28.4.2000",
+            "city": {
+                "id": 4890,
+                "title": "Одинцово"
+            },
+            "country": {
+                "id": 1,
+                "title": "Россия"
+            },
+            "interests": "",
+            "books": "",
+            "tv": "",
+            "quotes": "",
+            "about": "",
+            "games": "",
+            "movies": "",
+            "activities": "",
+            "music": "",
+            "mobile_phone": "",
+            "home_phone": "",
+            "site": "",
+            "status": "",
+            "last_seen": {
+                "platform": 2,
+                "time": 1657955052
+            },
+            "followers_count": 319,
+            "is_favorite": 0,
+            "is_hidden_from_feed": 0,
+            "common_count": 2,
+            "occupation": {
+                "id": 2,
+                "name": "МГУ",
+                "type": "university",
+                "country_id": 1,
+                "city_id": 1
+            },
+            "career": [],
+            "military": [],
+            "university": 2,
+            "university_name": "МГУ",
+            "faculty": 27,
+            "faculty_name": "Факультет журналистики",
+            "graduation": 0,
+            "home_town": "Одинцово",
+            "relation": 0,
+            "personal": {
+                "alcohol": 0,
+                "inspired_by": "",
+                "langs": [
+                    "Русский"
+                ],
+                "life_main": 0,
+                "people_main": 0,
+                "smoking": 0
+            },
+            "universities": [
+                {
+                    "city": 4890,
+                    "country": 1,
+                    "faculty": 27,
+                    "faculty_name": "Факультет журналистики",
+                    "id": 2,
+                    "name": "МГУ"
+                }
+            ],
+            "schools": [
+                {
+                    "city": 4890,
+                    "class": "",
+                    "class_id": 0,
+                    "country": 1,
+                    "id": "47710",
+                    "name": "Школа № 5"
+                }
+            ],
+            "relatives": [],
+            "sex": 1,
+            "screen_name": "polinadll",
+            "online": 0,
+            "verified": 0,
+            "friend_status": 3,
+            "first_name": "Полина",
+            "last_name": "Долгая",
+            "can_access_closed": true,
+            "is_closed": false
+        }
+    ]
+}
